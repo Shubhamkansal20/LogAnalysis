@@ -10,7 +10,7 @@ errors = open('errors.txt', 'w+')
 
 def connect():
     return psycopg2.connect("dbname=news")
-    
+
 
 def stat1():
     d_b = connect()
