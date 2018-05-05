@@ -21,10 +21,6 @@
 
 * If program has run successfully, following text files will be created.
 
-Question 1 - _article_views.txt_
-
-Question 2 - _authors_views.txt_
-
-Question 3 - _errors.txt_
+_output.txt_
 
 (also included in the repository)
